@@ -45,20 +45,61 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vina-GPU</div><img src='images/Vina-GPU2.0.png' alt="sym" width="100%"></div></div>
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vina-GPU 2.0</div><img src='images/Vina-GPU2.0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Vina-GPU 2.0: further accelerating AutoDock Vina and its derivatives with graphics processing units](https://www.mdpi.com/1420-3049/27/9/3041#)
+[Vina-GPU 2.0: further accelerating AutoDock Vina and its derivatives with graphics processing units](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.2c01504)
 
-Ji Ding, *Shidi Tang*, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Ming Ling, Jiansheng Wu
+Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Ming Ling, Jiansheng Wu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:9yKSN-GCB0IC'></span></strong>
 - This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
 </div>
 </div>
 
+<!-- ######################################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vina-FPGA-Cluster</div><img src='images/Vina-FPGA-Cluster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism](https://ieeexplore.ieee.org/abstract/document/10500753)
+
+Ming Ling, Zhihao Feng, Ruiqi Chen, Yi Shao, **Shidi Tang**, Yanxiang Zhu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:zYLM7Y9cAGgC'></span></strong>
+- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+</div>
+</div>
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effectiveness Analysis</div><img src='images/Vina-FPGA-Cluster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, A Case Study on the Molecular Docking Tool AutoDock Vina](https://ieeexplore.ieee.org/abstract/document/10500753)
+
+Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:d1gkVwhDpl0C'></span></strong>
+- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+</div>
+</div>
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DiG</div><img src='images/DiG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting equilibrium distributions for molecular systems with deep learning](https://ieeexplore.ieee.org/abstract/document/10500753)
+
+Shuxin Zheng, Jiyan He, Chang Liu, Yu Shi, Ziheng Lu, Weitao Feng, Fusong Ju, Jiaxi Wang, Jianwei Zhu, Yaosen Min, He Zhang, **Shidi Tang**, Hongxia Hao, Peiran Jin, Chi Chen, Frank Noé, Haiguang Liu, Tie-Yan Liu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:Y0pCki6q_DkC'></span></strong>
+- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
