@@ -33,12 +33,14 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vina-GPU</div><img src='images/Vina-GPU.png' alt="sym" width="100%"></div></div>
+<!-- ######################################################################### -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/Vina-GPU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerate autodock vina with GPUs](https://www.mdpi.com/1420-3049/27/9/3041#)
 
-**Shidi Tang**, Ruiqi Chen, Mengru Lin, Qingde Lin, Yanxiang Zhu, Ji Ding, Haifeng Hu, Ming Ling, Jiansheng Wu
+**Shidi Tang**, Ruiqi Chen, Mengru Lin, Qingde Lin, Yanxiang Zhu, Ji Ding, Haifeng Hu, Ming Ling, Jiansheng Wu<br>
+**Molecules**, 2022, 27(9): 3041
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:u-x6o8ySG0sC'></span></strong>
 - This work presents a parallel algorithm called Vina-GPU and the OpenCL implementation on GPUs.
@@ -47,12 +49,13 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 <!-- ######################################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vina-GPU 2.0</div><img src='images/Vina-GPU2.0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCIM 2023</div><img src='images/Vina-GPU2.0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vina-GPU 2.0: further accelerating AutoDock Vina and its derivatives with graphics processing units](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.2c01504)
 
-Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Ming Ling, Jiansheng Wu
+Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Ming Ling, Jiansheng Wu<br>
+**Journal of Chemical Information and Modeling (JCIM)** 63 (7), 1982-1998
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:9yKSN-GCB0IC'></span></strong>
 - This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
@@ -61,12 +64,13 @@ Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Mi
 
 <!-- ######################################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vina-FPGA-Cluster</div><img src='images/Vina-FPGA-Cluster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBCAS 2024</div><img src='images/Vina-FPGA-Cluster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism](https://ieeexplore.ieee.org/abstract/document/10500753)
 
-Ming Ling, Zhihao Feng, Ruiqi Chen, Yi Shao, **Shidi Tang**, Yanxiang Zhu
+Ming Ling, Zhihao Feng, Ruiqi Chen, Yi Shao, **Shidi Tang**, Yanxiang Zhu<br>
+**IEEE Transactions on Biomedical Circuits and Systems (TBCAS)** (2024).
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
@@ -75,12 +79,10 @@ Ming Ling, Zhihao Feng, Ruiqi Chen, Yi Shao, **Shidi Tang**, Yanxiang Zhu
 
 <!-- ######################################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effectiveness Analysis</div><img src='images/Vina-FPGA-Cluster.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, A Case Study on the Molecular Docking Tool AutoDock Vina](https://ieeexplore.ieee.org/abstract/document/10500753)
 
-Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu
+Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu<br>
+**IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2023
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:d1gkVwhDpl0C'></span></strong>
 - This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
@@ -89,30 +91,65 @@ Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu
 
 <!-- ######################################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DiG</div><img src='images/DiG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NMI 2024</div><img src='images/DiG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Predicting equilibrium distributions for molecular systems with deep learning](https://ieeexplore.ieee.org/abstract/document/10500753)
 
-Shuxin Zheng, Jiyan He, Chang Liu, Yu Shi, Ziheng Lu, Weitao Feng, Fusong Ju, Jiaxi Wang, Jianwei Zhu, Yaosen Min, He Zhang, **Shidi Tang**, Hongxia Hao, Peiran Jin, Chi Chen, Frank Noé, Haiguang Liu, Tie-Yan Liu
+Shuxin Zheng, Jiyan He, Chang Liu, Yu Shi, Ziheng Lu, Weitao Feng, Fusong Ju, Jiaxi Wang, Jianwei Zhu, Yaosen Min, He Zhang, **Shidi Tang**, Hongxia Hao, Peiran Jin, Chi Chen, Frank Noé, Haiguang Liu, Tie-Yan Liu.<br>
+**Nature Machine Intelligence** (2024): 1-10.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:Y0pCki6q_DkC'></span></strong>
 - This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
 </div>
 </div>
 
+<!-- ######################################################################### -->
+[A fast approximate check polytope projection algorithm for ADMM decoding of LDPC codes](https://ieeexplore.ieee.org/abstract/document/10500753)
+
+Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
+**IEEE Communications Letters**, 2019, 23(9): 1520-1523.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:u5HHmVD_uO8C'></span></strong>
+- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+</div>
+</div>
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/Vina-GPU 2.1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://www.biorxiv.org/content/10.1101/2023.11.04.565429v1.abstract)
+
+**Shidi Tang**, Ji Ding, Xiangyu Zhu, Zheng Wang, Haitao Zhao, Jiansheng Wu
+bioRxiv (2023): 2023-11.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:UeHWp8X0CEIC'></span></strong>
+- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.8*  *Stars of Tomorrow Internship Program* Award at Microsoft Research Asia.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ### B.S. in Communication Engineering, 2016-2019
+  > Central China Normal University (CCNU), Wuhan, China
 
-# 💬 Invited Talks
+- ### M.S. in Biomedical Engineering, 2020-2023
+  > Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China
+
+- ### Research Intern, 2022-2023
+  > Microsoft Research Asia (MSRA), AI for Science group, Beijing, China
+
+- ### Ph.D student, 2023-present
+  > Southeast University, Nanjing, China
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- ### Research Intern, 2022-2023
+  > Microsoft Research Asia (MSRA), AI for Science group, Beijing, China
