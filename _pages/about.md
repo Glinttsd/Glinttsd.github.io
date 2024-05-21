@@ -141,9 +141,6 @@ Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
 - ### M.S. in Biomedical Engineering, 2020-2023
   > Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China
 
-- ### Research Intern, 2022-2023
-  > Microsoft Research Asia (MSRA), AI for Science group, Beijing, China
-
 - ### Ph.D student, 2023-present
   > Southeast University, Nanjing, China
 
