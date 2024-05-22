@@ -97,7 +97,7 @@ Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Mi
 
 <!-- ######################################################################### -->
 
-[Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, A Case Study on the Molecular Docking Tool AutoDock Vina](https://ieeexplore.ieee.org/abstract/document/10500753)
+- `TCBB 2023` [Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, A Case Study on the Molecular Docking Tool AutoDock Vina](https://ieeexplore.ieee.org/abstract/document/10500753)
 
 Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu<br>
 **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2023
