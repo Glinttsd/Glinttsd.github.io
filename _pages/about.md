@@ -42,8 +42,8 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 Shuxin Zheng, Jiyan He, Chang Liu, Yu Shi, Ziheng Lu, Weitao Feng, Fusong Ju, Jiaxi Wang, Jianwei Zhu, Yaosen Min, He Zhang, **Shidi Tang**, Hongxia Hao, Peiran Jin, Chi Chen, Frank Noé, Haiguang Liu, Tie-Yan Liu.<br>
 **Nature Machine Intelligence** (2024): 1-10.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:Y0pCki6q_DkC'></span></strong>
-- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:Y0pCki6q_DkC)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:Y0pCki6q_DkC'></span></strong>
+- This work proposes Distributional Graphormer (DiG) in an attempt to predict the equilibrium distribution of molecular systems.
 </div>
 </div>
 
@@ -58,8 +58,8 @@ Shuxin Zheng, Jiyan He, Chang Liu, Yu Shi, Ziheng Lu, Weitao Feng, Fusong Ju, Ji
 Ming Ling, Zhihao Feng, Ruiqi Chen, Yi Shao, **Shidi Tang**, Yanxiang Zhu<br>
 **IEEE Transactions on Biomedical Circuits and Systems (TBCAS)** (2024).
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:zYLM7Y9cAGgC'></span></strong>
-- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:zYLM7Y9cAGgC)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:zYLM7Y9cAGgC'></span></strong>
+- This work presents Vina-FPGA-cluster, a multi-FPGA-based molecular docking tool enabling high-accuracy and multi-level parallel Vina acceleration.
 </div>
 </div>
 
@@ -74,14 +74,14 @@ Ming Ling, Zhihao Feng, Ruiqi Chen, Yi Shao, **Shidi Tang**, Yanxiang Zhu<br>
 Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Ming Ling, Jiansheng Wu<br>
 **Journal of Chemical Information and Modeling (JCIM)** 63 (7), 1982-1998
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:9yKSN-GCB0IC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:9yKSN-GCB0IC)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:9yKSN-GCB0IC'></span></strong>
 - This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
 </div>
 </div>
 
 <!-- ######################################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/Vina-GPU 2.1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2023</div><img src='images/Vina-GPU 2.1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://www.biorxiv.org/content/10.1101/2023.11.04.565429v1.abstract)
@@ -89,8 +89,8 @@ Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Mi
 **Shidi Tang**, Ji Ding, Xiangyu Zhu, Zheng Wang, Haitao Zhao, Jiansheng Wu
 bioRxiv (2023): 2023-11.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:UeHWp8X0CEIC'></span></strong>
-- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:UeHWp8X0CEIC)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:UeHWp8X0CEIC'></span></strong>
+- This work presents Vina-GPU 2.1, aimed at enhancing the docking speed and precision of AutoDock Vina and its derivatives through the integration of novel algorithms to facil-itate improved docking and virtual screening outcomes.
 </div>
 </div>
 
@@ -102,12 +102,12 @@ bioRxiv (2023): 2023-11.
 Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu<br>
 **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2023
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:d1gkVwhDpl0C'></span></strong>
-- This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:d1gkVwhDpl0C)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:d1gkVwhDpl0C'></span></strong>
+- This work presents a probabilistic model for the effectiveness of multiple initial states parallel SA (MISPSA) that is adapted in Vina-GPU.
 
 
 <!-- ######################################################################### -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/Vina-GPU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Moleculars 2022</div><img src='images/Vina-GPU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerate autodock vina with GPUs](https://www.mdpi.com/1420-3049/27/9/3041#)
@@ -115,7 +115,7 @@ Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu<b
 **Shidi Tang**, Ruiqi Chen, Mengru Lin, Qingde Lin, Yanxiang Zhu, Ji Ding, Haifeng Hu, Ming Ling, Jiansheng Wu<br>
 **Molecules**, 2022, 27(9): 3041
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:u-x6o8ySG0sC)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:u-x6o8ySG0sC'></span></strong>
 - This work presents a parallel algorithm called Vina-GPU and the OpenCL implementation on GPUs.
 </div>
 </div>
@@ -126,7 +126,7 @@ Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu<b
 Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
 **IEEE Communications Letters**, 2019, 23(9): 1520-1523.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:u5HHmVD_uO8C)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:u5HHmVD_uO8C'></span></strong>
 - This work presents Vina-GPU 2.0 to further accelerate AutoDock Vina and its derivatives with graphics processing units.
 
 
