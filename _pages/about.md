@@ -100,7 +100,7 @@ Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Mi
 - `TCBB 2023` [Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, A Case Study on the Molecular Docking Tool AutoDock Vina](https://ieeexplore.ieee.org/abstract/document/10500753)
 
 Xingxing Zhou, Ming Ling, Qingde Lin, **Shidi Tang**, Jiansheng Wu, Haifeng Hu<br>
-**IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2023
+**IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2023 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:d1gkVwhDpl0C)<strong><span class='show_paper_citations' data='mf6xshEAAAAJ:d1gkVwhDpl0C'></span></strong>
 - This work presents a probabilistic model for the effectiveness of multiple initial states parallel SA (MISPSA) that is adapted in Vina-GPU.
