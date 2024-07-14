@@ -28,6 +28,7 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our paper entitled "Modeling equivariant neural networks for hardware acceleration, a case study on the molecular docking tool DiffDock" has been accepted in *IEEE PACRIM'2024*.
 - *2024.05*: &nbsp;🎉🎉 [DiG](https://www.nature.com/articles/s42256-024-00837-3) has been accepted (as a co-author) in *Nature Machine Intelligence*. Much appreciated to MSRA AI4Science.
 - *2024.04*: &nbsp;🎉🎉 [Vina-FPGA-Cluster](https://ieeexplore.ieee.org/abstract/document/10500753) has been accepted (as a co-author) in *IEEE Transactions on Biomedical Circuits and Systems*
 
