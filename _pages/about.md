@@ -28,11 +28,45 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our paper entitled "Modeling equivariant neural networks for hardware acceleration, a case study on the molecular docking tool DiffDock" has been accepted in *IEEE PACRIM'2024*.
+- *2024.09*: &nbsp;🎉🎉 [Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://ieeexplore.ieee.org/abstract/document/10693356) has been accepted in *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
+- *2024.06*: &nbsp;🎉🎉 [Modeling equivariant neural networks for hardware acceleration, a case study on the molecular docking tool DiffDock](https://ieeexplore.ieee.org/abstract/document/10690224) has been accepted in *IEEE PACRIM'2024*.
 - *2024.05*: &nbsp;🎉🎉 [DiG](https://www.nature.com/articles/s42256-024-00837-3) has been accepted (as a co-author) in *Nature Machine Intelligence*. Much appreciated to MSRA AI4Science.
 - *2024.04*: &nbsp;🎉🎉 [Vina-FPGA-Cluster](https://ieeexplore.ieee.org/abstract/document/10500753) has been accepted (as a co-author) in *IEEE Transactions on Biomedical Circuits and Systems*
 
 # 📝 Publications 
+
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCBB 2024</div><img src='images/Vina-GPU 2.1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://ieeexplore.ieee.org/abstract/document/10693356)
+
+**Shidi Tang**, Ji Ding, Xiangyu Zhu, Zheng Wang, Haitao Zhao, Jiansheng Wu<br>
+**IEEE/ACM Transactions on Computational Biology and Bioinformatics** (Early Access).
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:UeHWp8X0CEIC'></span></strong>
+- This work presents [Vina-GPU 2.1 ![](https://img.shields.io/github/stars/DeltaGroupNJUPT/Vina-GPU-2.1?style=social)](https://github.com/DeltaGroupNJUPT/Vina-GPU-2.1), aimed at enhancing the docking speed and precision of AutoDock Vina and its derivatives through the integration of novel algorithms to facil-itate improved docking and virtual screening outcomes.
+</div>
+</div>
+
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PACRIM 2024</div><img src='images/PACRIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Modeling equivariant neural networks for hardware acceleration, a case study on the molecular docking tool DiffDock](https://ieeexplore.ieee.org/abstract/document/10690224)
+
+**Shidi Tang**, Xingxing Zhou, Ming Ling.<br>
+**PACRIM'2024**.
+
+[**Project**](https://ieeexplore.ieee.org/abstract/document/10690224) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:Y0pCki6q_DkC'></span></strong>
+- This work proposes first SystemC model for equivariant neural networks, specifically targeting Diffdock, with the aim of accelerating its performance using customized hardware such as the FPGA..
+</div>
+</div>
+
 <!-- ######################################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NMI 2024</div><img src='images/DiG.png' alt="sym" width="100%"></div></div>
@@ -77,21 +111,6 @@ Ji Ding, **Shidi Tang**, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, Mi
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:9yKSN-GCB0IC'></span></strong>
 - This work presents [Vina-GPU 2.0 ![](https://img.shields.io/github/stars/DeltaGroupNJUPT/Vina-GPU-2.0?style=social)](https://github.com/DeltaGroupNJUPT/Vina-GPU-2.0) to further accelerate AutoDock Vina and its derivatives with graphics processing units.
-</div>
-</div>
-
-<!-- ######################################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2023</div><img src='images/Vina-GPU 2.1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://www.biorxiv.org/content/10.1101/2023.11.04.565429v1.abstract)
-
-**Shidi Tang**, Ji Ding, Xiangyu Zhu, Zheng Wang, Haitao Zhao, Jiansheng Wu<br>
-**bioRxiv** (2023): 2023-11.
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:UeHWp8X0CEIC'></span></strong>
-- This work presents [Vina-GPU 2.1 ![](https://img.shields.io/github/stars/DeltaGroupNJUPT/Vina-GPU-2.1?style=social)](https://github.com/DeltaGroupNJUPT/Vina-GPU-2.1), aimed at enhancing the docking speed and precision of AutoDock Vina and its derivatives through the integration of novel algorithms to facil-itate improved docking and virtual screening outcomes.
 </div>
 </div>
 
