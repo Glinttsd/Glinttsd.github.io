@@ -38,7 +38,7 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 <!-- ######################################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCBB 2024</div><img src='images/Vina-GPU 2.1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCBB 2024</div><img src='images/EEVS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening](https://ieeexplore.ieee.org/abstract/document/10884806)
