@@ -28,12 +28,28 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 [EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening](https://ieeexplore.ieee.org/abstract/document/10884806) has been accepted in *IEEE Transactions on Sustainable Computing*.
 - *2024.09*: &nbsp;🎉🎉 [Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://ieeexplore.ieee.org/abstract/document/10693356) has been accepted in *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
-- *2024.06*: &nbsp;🎉🎉 [Modeling equivariant neural networks for hardware acceleration, a case study on the molecular docking tool DiffDock](https://ieeexplore.ieee.org/abstract/document/10690224) has been accepted in *IEEE PACRIM'2024*.
-- *2024.05*: &nbsp;🎉🎉 [DiG](https://www.nature.com/articles/s42256-024-00837-3) has been accepted (as a co-author) in *Nature Machine Intelligence*. Much appreciated to MSRA AI4Science.
-- *2024.04*: &nbsp;🎉🎉 [Vina-FPGA-Cluster](https://ieeexplore.ieee.org/abstract/document/10500753) has been accepted (as a co-author) in *IEEE Transactions on Biomedical Circuits and Systems*
+<!-- - *2024.06*: &nbsp;🎉🎉 [Modeling equivariant neural networks for hardware acceleration, a case study on the molecular docking tool DiffDock](https://ieeexplore.ieee.org/abstract/document/10690224) has been accepted in *IEEE PACRIM'2024*. -->
+<!-- - *2024.05*: &nbsp;🎉🎉 [DiG](https://www.nature.com/articles/s42256-024-00837-3) has been accepted (as a co-author) in *Nature Machine Intelligence*. Much appreciated to MSRA AI4Science.
+- *2024.04*: &nbsp;🎉🎉 [Vina-FPGA-Cluster](https://ieeexplore.ieee.org/abstract/document/10500753) has been accepted (as a co-author) in *IEEE Transactions on Biomedical Circuits and Systems* -->
 
 # 📝 Publications 
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCBB 2024</div><img src='images/Vina-GPU 2.1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening](https://ieeexplore.ieee.org/abstract/document/10884806)
+
+Ming Ling, Chuanzhao Zhang, **Shidi Tang**, Ruiqi Chen, Yanxiang Zhu<br>
+**IEEE Transactions on Sustainable Computing** (Early Access).
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:eQOLeE2rZwMC'></span></strong>
+- This work presents EEVS, aimed at redeploying discarded smartphones for economic and ecological drug molecules virtual screening.
+</div>
+</div>
 
 
 <!-- ######################################################################### -->
@@ -44,7 +60,7 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 [Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://ieeexplore.ieee.org/abstract/document/10693356)
 
 **Shidi Tang**, Ji Ding, Xiangyu Zhu, Zheng Wang, Haitao Zhao, Jiansheng Wu<br>
-**IEEE/ACM Transactions on Computational Biology and Bioinformatics** (Early Access).
+**IEEE/ACM Transactions on Computational Biology and Bioinformatics**.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:UeHWp8X0CEIC'></span></strong>
 - This work presents [Vina-GPU 2.1 ![](https://img.shields.io/github/stars/DeltaGroupNJUPT/Vina-GPU-2.1?style=social)](https://github.com/DeltaGroupNJUPT/Vina-GPU-2.1), aimed at enhancing the docking speed and precision of AutoDock Vina and its derivatives through the integration of novel algorithms to facil-itate improved docking and virtual screening outcomes.
