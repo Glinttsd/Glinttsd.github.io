@@ -30,9 +30,6 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 [EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening](https://ieeexplore.ieee.org/abstract/document/10884806) has been accepted in *IEEE Transactions on Sustainable Computing*.
 - *2024.09*: &nbsp;🎉🎉 [Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://ieeexplore.ieee.org/abstract/document/10693356) has been accepted in *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
-<!-- - *2024.06*: &nbsp;🎉🎉 [Modeling equivariant neural networks for hardware acceleration, a case study on the molecular docking tool DiffDock](https://ieeexplore.ieee.org/abstract/document/10690224) has been accepted in *IEEE PACRIM'2024*. -->
-<!-- - *2024.05*: &nbsp;🎉🎉 [DiG](https://www.nature.com/articles/s42256-024-00837-3) has been accepted (as a co-author) in *Nature Machine Intelligence*. Much appreciated to MSRA AI4Science.
-- *2024.04*: &nbsp;🎉🎉 [Vina-FPGA-Cluster](https://ieeexplore.ieee.org/abstract/document/10500753) has been accepted (as a co-author) in *IEEE Transactions on Biomedical Circuits and Systems* -->
 
 # 📝 Publications 
 
