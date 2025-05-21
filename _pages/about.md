@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a first year Ph.D student advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/).
+I'm currently a second year Ph.D student advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/).
 
 I received my B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately.
 
@@ -28,10 +28,27 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 [Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3728470) has been accepted in *ACM Transactions on Embedded Computing Systems*.
+- *2025.05*: &nbsp;🎉🎉 Two papers has been accepted in *GLVLSI'25*.
 - *2025.02*: &nbsp;🎉🎉 [EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening](https://ieeexplore.ieee.org/abstract/document/10884806) has been accepted in *IEEE Transactions on Sustainable Computing*.
-- *2024.09*: &nbsp;🎉🎉 [Vina-GPU 2.1: towards further optimizing docking speed and precision of AutoDock Vina and its derivatives](https://ieeexplore.ieee.org/abstract/document/10693356) has been accepted in *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
 
 # 📝 Publications 
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TECS 2025</div><img src='images/diffuser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/10884806)
+
+**Shidi Tang**, Ruiqi Chen, Rui Liu, Yuxuan Lv, Pengwei Zheng, He Li, Ming Ling<br>
+**ACM Transactions on Embedded Computing Systems** (Early Access).
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:WF5omc3nYNoC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:eQOLeE2rZwMC'></span></strong>
+- This work presents Diff-Acc, an efficient FPGA accelerator for unconditional UNet-based diffusion models with noval step-wise quantization method and group-wise parallelism. Compared with both server-based (Tesla V100 and Intel Xeon) and edge-based (Raspberry Pi 4 and Jetson Nano) platforms, Diff-Acc implemented on the Zynq UltraScale+ XCZU9EG FPGA demonstrates an up-to 12.5 × energy efficiency. Particularly versus edge-based platforms, Diff-Acc achieves up to 10.26 × and 1.97 × performance improvements over CPU and GPU, respectively.
+</div>
+</div>
+
 
 <!-- ######################################################################### -->
 
@@ -41,7 +58,7 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 [EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening](https://ieeexplore.ieee.org/abstract/document/10884806)
 
 Ming Ling, Chuanzhao Zhang, **Shidi Tang**, Ruiqi Chen, Yanxiang Zhu<br>
-**IEEE Transactions on Sustainable Computing** (Early Access).
+**IEEE Transactions on Sustainable Computing**.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:eQOLeE2rZwMC'></span></strong>
 - This work presents EEVS, aimed at redeploying discarded smartphones for economic and ecological drug molecules virtual screening.
