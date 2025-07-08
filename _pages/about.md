@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a second year Ph.D student advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/).
+I'm currently a third year Ph.D student advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/).
 
 I received my B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately.
 
@@ -28,9 +28,9 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 **Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA** has been accepted in *The 2025 International Conference on Computer-Aided Design (ICCAD'25)*.
 - *2025.05*: &nbsp;🎉🎉 [Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3728470) has been accepted in *ACM Transactions on Embedded Computing Systems*.
 - *2025.05*: &nbsp;🎉🎉 Two papers has been accepted in *GLVLSI'25*.
-- *2025.02*: &nbsp;🎉🎉 [EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening](https://ieeexplore.ieee.org/abstract/document/10884806) has been accepted in *IEEE Transactions on Sustainable Computing*.
 
 # 📝 Publications 
 
