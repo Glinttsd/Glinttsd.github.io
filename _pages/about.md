@@ -185,8 +185,9 @@ Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
 - Reviewer of *The Journal of Supercomputing*
 
 # 🎖 Honors and Awards
-- *2025* Zhangjiang High-Tech Scholarship
-- *2025* Best Paper Award Candidate, International Conference on Computer-Aided Design (ICCAD)
+- *2025* [Best Paper Award Candidate](https://confcats-event-sessions.s3.us-east-1.amazonaws.com/iccad25/uploads/ICCAD_2025_Program_v20.pdf), International Conference on Computer-Aided Design (ICCAD)
+- *2025* Gold Award, [The 2nd Global Digital Intelligience Education Innovation Competition](https://www.bohrium.com/competitions/2625276900?tab=introduce)
+- *2025* [Zhangjiang High-Tech Scholarship](https://ic.seu.edu.cn/2025/1024/c47790a543604/page.htm)
 - *2023* Stars of Tomorrow Internship Program Award, Microsoft Research Asia (MSRA)
 
 
