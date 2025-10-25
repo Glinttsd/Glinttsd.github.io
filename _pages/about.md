@@ -198,7 +198,7 @@ Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
   > Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China
 
 - ### Ph.D student, 2023-present
-  > Southeast University, Nanjing, China
+  > Southeast University (SEU), Nanjing, China
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
