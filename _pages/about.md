@@ -181,10 +181,14 @@ Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
 - This work presents a fast projection algorithm for ADMM decoding of LDPC codes
 
 # 💼 Service
+- Reviewer of *IEEE Transactions on Sustainable Computing*
 - Reviewer of *The Journal of Supercomputing*
 
 # 🎖 Honors and Awards
-- *2023.8*  *Stars of Tomorrow Internship Program* Award at Microsoft Research Asia.
+- *2025* Zhangjiang High-Tech Scholarship
+- *2025* Best Paper Award Candidate, International Conference on Computer-Aided Design (ICCAD)
+- *2023* Stars of Tomorrow Internship Program Award, Microsoft Research Asia (MSRA)
+
 
 # 📖 Educations
 - ### B.S. in Communication Engineering, 2016-2019
