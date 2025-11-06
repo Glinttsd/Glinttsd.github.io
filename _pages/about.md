@@ -28,6 +28,7 @@ I was an research intern at Microsoft Research Asia (MSRA), AI for Science group
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Two papers are accepted by DATE'26!
 - *2025.09*: &nbsp;🎉🎉 **Diff-DiT** has been selected as the <span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span> in ICCAD'25!
 - *2025.07*: &nbsp;🎉🎉 **Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA** has been accepted in *The 2025 International Conference on Computer-Aided Design (ICCAD'25)*.
 - *2025.05*: &nbsp;🎉🎉 [Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3728470) has been accepted in *ACM Transactions on Embedded Computing Systems*.
