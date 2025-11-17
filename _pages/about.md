@@ -23,8 +23,6 @@ I received my B.S. and M.S. degrees from Central China Normal University (CCNU) 
 
 My research <a href='https://scholar.google.com/citations?user=mf6xshEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> interest includes domain specific accelerator, efficient machine learning and parallel computing. 
 
-I was an research intern at Microsoft Research Asia (MSRA), AI for Science group from 2022 to 2023, during which I obtained the *Stars of Tomorrow Internship Program* Award.
-
 
 
 # 🔥 News
