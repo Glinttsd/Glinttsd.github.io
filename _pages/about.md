@@ -27,12 +27,42 @@ My research <a href='https://scholar.google.com/citations?user=mf6xshEAAAAJ'><im
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 **Equicore: Accelerating Clebsch-Gordan Tensor Product of Equivariant Neural Networks on FPGA** is accepted by [*DATE'26*](https://www.date-conference.com/)!
-- *2025.09*: &nbsp;🎉🎉 **Diff-DiT** has been selected as the <span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span> in [*ICCAD'25*](https://2025.iccad.com/)!
-- *2025.07*: &nbsp;🎉🎉 **Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA** has been accepted in [*The 2025 International Conference on Computer-Aided Design (ICCAD'25)*](https://2025.iccad.com/).
+- *2025.09*: &nbsp;🎉🎉 [**Diff-DiT**](https://ieeexplore.ieee.org/abstract/document/11240791) has been selected as the <span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span> in [*ICCAD'25*](https://2025.iccad.com/)!
+- *2025.07*: &nbsp;🎉🎉 [**Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA**](https://ieeexplore.ieee.org/abstract/document/11240791) has been accepted in [*The 2025 International Conference on Computer-Aided Design (ICCAD'25)*](https://2025.iccad.com/).
 - *2025.05*: &nbsp;🎉🎉 [Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3728470) has been accepted in *ACM Transactions on Embedded Computing Systems*.
 - *2025.05*: &nbsp;🎉🎉 Two papers accepted in [*GLVLSI'25*](https://www.glsvlsi.org/).
 
 # 📝 Publications 
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/Diff-DiT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA](https://ieeexplore.ieee.org/abstract/document/11240791)
+
+**Shidi Tang**, Pengwei Zheng, Ruiqi Chen, Yuxuan Lv, Bruno da Silva, Ming Ling<br>
+**The 2025 International Conference on Computer-Aided Design (ICCAD'25)**.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&citation_for_view=mf6xshEAAAAJ:0EnyYjriUFMC) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:0EnyYjriUFMC'></span></strong>
+- This work presents Diff-DiT, an efficient FPGA accelerator for DiT models with temporal differential computing. First, we propose an approximated differential attention to mitigate the previous challenge of differentiating the Attention layer. Second, we propose a cross-cast data access pattern that achieves the highest computational intensity when performing matrix multiplications. Third, we optimize the dataflow by exploring the parallelism (with our HCS method) and pipelining. Diff-DiT achieves 1.39× speedup and 5.60× energy efficiency improvement when compared to the NVIDIA V100 GPU.
+</div>
+</div>
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FITEE 2025</div><img src='images/Vina-FPGA2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vina-FPGA2: a high-level parallelized hardware-accelerated molecular docking tool based on the inter-module pipeline](https://ieeexplore.ieee.org/abstract/document/11240791)
+
+Ming Ling, **Shidi Tang**, Ruiqi Chen, Xin Li, Yanxiang Zhu<br>
+**Frontiers of Information Technology & Electronic Engineering**.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mf6xshEAAAAJ&sortby=pubdate&citation_for_view=mf6xshEAAAAJ:hqOjcs7Dif8C) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:hqOjcs7Dif8C'></span></strong>
+- This work presents Vina-FPGA2, an FPGA-based molecular docking acceleration tool. Building upon our previous efforts, Vina-FPGA2 implements an inter-module pipelined design, further accelerating the Vina computation process. Additionally, we developed a reinforcement learning based rapid solver that allows users to quickly obtain deployment parameters tailored to their target FPGA. Vina-FPGA2-Enhanced achieves an average 12.6× performance improvement over the CPU and a 3.3× improvement over Vina-FPGA. Compared to Vina-GPU, Vina-FPGA2 achieves a 7.2× enhancement in energy efficiency.
+</div>
+</div>
 
 <!-- ######################################################################### -->
 
