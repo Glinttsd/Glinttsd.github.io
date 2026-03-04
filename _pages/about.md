@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a third year Ph.D student advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/).
+I'm currently a third year Ph.D student advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am also a visiting Ph.D student advised by [Prof. Bruno da Silva](https://researchportal.vub.be/en/persons/bruno-tiago-da-silva-gomes/) of [ETRO](https://www.etrovub.be/) from [Vrije Universiteit Brussel](https://www.vub.be/nl).
 
 I received my B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately.
 
@@ -212,7 +212,7 @@ Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
 # 💼 Service
 - Reviewer of *IEEE Transactions on Sustainable Computing*
 - Reviewer of *The Journal of Supercomputing*
-
+- Reviewer of *IEEE Transactions on Circuits and Systems—Part II: Express Briefs*
 # 🎖 Honors and Awards
 - *2025* [Best Paper Award Candidate](https://confcats-event-sessions.s3.us-east-1.amazonaws.com/iccad25/uploads/ICCAD_2025_Program_v20.pdf), International Conference on Computer-Aided Design (ICCAD)
 - *2025* Gold Award, [The 2nd Global Digital Intelligience Education Innovation Competition](https://www.bohrium.com/competitions/2625276900?tab=introduce)
