@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a third year Ph.D student advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am also a visiting Ph.D student advised by [Prof. Bruno da Silva](https://researchportal.vub.be/en/persons/bruno-tiago-da-silva-gomes/) of [ETRO](https://www.etrovub.be/) from [Vrije Universiteit Brussel](https://www.vub.be/nl).
+I'm currently a third year Ph.D candidate advised by [Prof. Ming](https://ic.seu.edu.cn/2022/0411/c2210a404378/page.htm) of [EECS-Ling Lab](https://github.com/ECAS-Ling) from [School of Integrated Circuits](https://ic.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/). I am also a visiting Ph.D student advised by [Prof. Bruno da Silva](https://researchportal.vub.be/en/persons/bruno-tiago-da-silva-gomes/) of [ETRO](https://www.etrovub.be/) from [Vrije Universiteit Brussel](https://www.vub.be/nl).
 
 I received my B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately.
 
@@ -29,10 +29,23 @@ My research <a href='https://scholar.google.com/citations?user=mf6xshEAAAAJ'><im
 - *2025.11*: &nbsp;🎉🎉 **Equicore: Accelerating Clebsch-Gordan Tensor Product of Equivariant Neural Networks on FPGA** is accepted by [*DATE'26*](https://www.date-conference.com/)!
 - *2025.09*: &nbsp;🎉🎉 [**Diff-DiT**](https://ieeexplore.ieee.org/abstract/document/11240791) has been selected as the <span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span> in [*ICCAD'25*](https://2025.iccad.com/)!
 - *2025.07*: &nbsp;🎉🎉 [**Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA**](https://ieeexplore.ieee.org/abstract/document/11240791) has been accepted in [*The 2025 International Conference on Computer-Aided Design (ICCAD'25)*](https://2025.iccad.com/).
-- *2025.05*: &nbsp;🎉🎉 [Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3728470) has been accepted in *ACM Transactions on Embedded Computing Systems*.
-- *2025.05*: &nbsp;🎉🎉 Two papers accepted in [*GLVLSI'25*](https://www.glsvlsi.org/).
 
 # 📝 Publications 
+
+<!-- ######################################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/Equicore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ Equicore: Accelerating Clebsch-Gordan Tensor Product of Equivariant Neural Networks on FPGA](https://past.date-conference.com/proceedings-archive/2026/DATA/473.pdf)
+
+**Shidi Tang**, Chuanzhao Zhang, Ruiqi Chen, Yuxuan Lv, Bruno da Silva, Ming Ling<br>
+**2026 Design, Automation & Test in Europe Conference (DATE 2026)**.
+
+[**Project**](https://past.date-conference.com/proceedings-archive/2026/DATA/473.pdf) <strong><span class='show_paper_citations' data='mf6xshEAAAAJ:0EnyYjriUFMC'></span></strong>
+- This work presents Equicore, a software–hardware co-design framework to accelerate CGTP in ENNs. Equicore introduces three key innovations: (1) a sparse-bypass strategy that exploits the CG structural sparsity together with a novel CG data format to pack the overlapping non-zeros, bypassing redundant data accesses and computations comparing to previous sparse solutions; (2) a mergedshift quantization strategy that enables full Int8 representation of irreps, weights, and CG coefficients using shift-only operations; and (3) a cascaded processing unit that tightly couples the FPGA hardware resources to achieve high operating frequency while supporting efficient sparse and quantized computation.
+</div>
+</div>
 
 <!-- ######################################################################### -->
 
@@ -221,14 +234,17 @@ Qiaoqiao Xia, Yan Lin, **Shidi Tang**, Qinglin Zhang<br>
 
 
 # 📖 Educations
-- ### B.S. in Communication Engineering, 2016-2019
-  > Central China Normal University (CCNU), Wuhan, China
+- ### Ph.D student, 2023-present
+  > Southeast University (SEU), Nanjing, China
+
+- ### Visiting Ph.D student, 2026-present
+  > Vrije Universiteit Brussel (VUB), Brussel, Belgium
 
 - ### M.S. in Biomedical Engineering, 2020-2023
   > Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China
 
-- ### Ph.D student, 2023-present
-  > Southeast University (SEU), Nanjing, China
+- ### B.S. in Communication Engineering, 2016-2019
+  > Central China Normal University (CCNU), Wuhan, China
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
